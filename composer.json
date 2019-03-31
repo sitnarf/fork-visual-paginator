@@ -1,5 +1,5 @@
 {
-	"name"			: "ipub/visual-paginator",
+	"name"			: "sitnarf/visual-paginator",
 	"type"			: "library",
 	"description"	: "Visual paginator for Nette Framework",
 	"keywords"		: ["nette", "ipub", "ipublikuj", "tools", "paginator", "paging"],
